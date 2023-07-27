@@ -63,7 +63,7 @@ int main() {
         else if (score >= 50 < 55){
             printf( "D !" );
         }
-        else if (score < 50){
+        else if (score <= 49){
             printf( "F !" );
         }
     }
