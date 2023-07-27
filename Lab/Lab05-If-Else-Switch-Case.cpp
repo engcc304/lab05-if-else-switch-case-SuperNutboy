@@ -45,25 +45,25 @@ int main() {
         if (score >= 80 ){
             printf( "A !" );
         }
-        else if (score > 75 < 80){
+        else if (score >= 75 ){
             printf( "B+ !" );
         }
-        else if (score > 70 < 75){
+        else if (score >= 70 ){
             printf( "B !" );
         }
-        else if (score > 65 < 70){
+        else if (score >= 65 ){
             printf( "C+ !" );
         }
-        else if (score > 60 < 65){
+        else if (score >= 60 ){
             printf( "C !" );
         }
-        else if (score > 55 < 60){
+        else if (score >= 55 ){
             printf( "D+ !" );
         }
-        else if (score > 50 < 55){
+        else if (score >= 50 ){
             printf( "D !" );
         }
-        else if (score <= 49){
+        else if (score <= 49 ){
             printf( "F !" );
         }
     }
