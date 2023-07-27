@@ -37,7 +37,7 @@
 
 int main() {
 
-    float score;
+    int score;
 
     printf( "Enter Your Score :\n" );
     scanf( "%d",&score );
